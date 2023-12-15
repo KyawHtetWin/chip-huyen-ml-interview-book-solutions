@@ -4,7 +4,7 @@ I came across Chip Huyen's excellent book offering guidance on preparing for the
 
 # Result:
 
-I have put the pdf file of the here answers, which I will probably refine over time and update here.
+I am sharing the solutions pdf file in this repository, which I will probably refine over time and update here.
 
 [Check out the original book here](https://huyenchip.com/ml-interviews-book/)
 
